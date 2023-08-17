@@ -16,7 +16,7 @@ const projects = [
     name: "WeatherWise",
     description:
       "WeatherWise is a weather app that allows users to search for the current weather in any city in the world.",
-    image: "",
+    image: "/WeatherWise.png",
     github: "https://github.com/aguilerad916/weather-app",
     link: "https://weather-app-git-main-aguilerad916.vercel.app/",
   },
