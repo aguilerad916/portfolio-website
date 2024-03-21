@@ -37,8 +37,9 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              I am a self-taught developer and have been coding for over a year
-              now. I am highly motivated and eager to apply my skills to
+              I first started as a self-taught developer learning through online resources for about a year
+              . But I chose to go back to college to purse a degree in Computer Science.
+              I am highly motivated and eager to apply my skills to
               real-world to help contribute to.
             </p>
             <br />
