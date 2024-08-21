@@ -6,11 +6,12 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs";
 
 const projects = [
   {
-    name: "Internet Speed Test",
-    description: "Web App that tests your internet speed.",
-    image: "/internet-speed.png",
-    github: "https://github.com/aguilerad916/internet-speed",
-    link: "https://internet-speed.vercel.app/",
+    name: "UC Transfer GPA Calculator",
+    description:
+      "An application that allows users to check their eligibility for University of California (UC) schools by inputting their GPA and major, providing a simple interface to estimate admissions chances based on GPA ranges for different UC campuses.",
+    image: "/uc-transfer-gpa.png",
+    github: "https://github.com/aguilerad916/uc-transfer-gpa",
+    link: "https://uc-transfer-gpa.vercel.app/",
   },
   {
     name: "WeatherWise",
@@ -21,13 +22,12 @@ const projects = [
     link: "https://weatherwise-nine.vercel.app/",
   },
   {
-    name: "Twitter Clone",
-    description:
-      "Twitter Clone is a social media app that allows users to post tweets, follow other users, and like tweets using the T3 Stack.",
-    image: "/twitter-clone.png",
-    github: "https://github.com/aguilerad916/twitter-clone",
-    link: "https://twitter-clone-roan-mu-11.vercel.app/",
-  },
+    name: "Internet Speed Test",
+    description: "Web App that tests your internet speed.",
+    image: "/internet-speed.png",
+    github: "https://github.com/aguilerad916/internet-speed",
+    link: "https://internet-speed.vercel.app/",
+  }
 ];
 
 const ProjectsSection = () => {

@@ -26,7 +26,7 @@ const Footer = () => {
             />
           </a>
           <a
-            href="https://www.linkedin.com/in/daniel-aguilera-a34b27228/"
+            href="https://www.linkedin.com/in/daniel-aguilera-cs/"
             rel="noreferrer"
             target="_blank"
           >

@@ -24,7 +24,7 @@ const HeroSection = () => {
           <p className="text-lg mt-4 mb-6 md:text-2xl">
             I&#39;m a{" "}
             <span className="font-semibold text-cyan-600">
-              Software Engineer{" "}
+              Computer Science Major{" "}
             </span>
             based in Los Angeles, CA. I enjoy improving my skills and learning
             new technologies.

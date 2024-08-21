@@ -12,7 +12,7 @@ const skills = [
   { skill: "Tailwind CSS" },
   { skill: "Git" },
   { skill: "SQL" },
-  { skill: "Prisma" },
+  { skill: "C++" },
   { skill: "Node.js" },
   { skill: "Express" },
   { skill: "Vercel" },
@@ -31,16 +31,14 @@ const AboutSection = () => {
           <div className="md:w-1/2 ">
             <p>
               Hey, my name is Daniel and I am a
-              <span className="font-bold">{" open-minded"}</span>,
+              <span className="font-bold">{" collaborative"}</span>,
               <span className="font-bold">{" motivated"}</span>, and
-              <span className="font-bold">{" adaptable"}</span> software
-              engineer based in Los Angeles, CA.
+              <span className="font-bold">{" adaptable "}</span>
+              Computer Science Major studying at Los Angeles Harbor College.
             </p>
             <br />
             <p>
-              I am a self-taught developer and have been coding for over a year
-              now. I am highly motivated and eager to apply my skills to
-              real-world to help contribute to.
+            I first started as a self-taught developer learning through online resources for about a year . But I chose to go back to college to purse a degree in Computer Science. I am highly motivated and eager to apply my skills to real-world to help contribute to.
             </p>
             <br />
             <p>
