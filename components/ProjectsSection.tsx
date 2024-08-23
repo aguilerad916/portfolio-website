@@ -6,7 +6,7 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs";
 
 const projects = [
   {
-    name: "UC Transfer GPA Calculator",
+    name: "UC Transfer Eligibility Calculator",
     description:
       "An application that allows users to check their eligibility for University of California (UC) schools by inputting their GPA and major, providing a simple interface to estimate admissions chances based on GPA ranges for different UC campuses.",
     image: "/uc-transfer-gpa.png",
